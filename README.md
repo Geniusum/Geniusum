@@ -12,8 +12,10 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cpp2&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-gray?style=for-the-badge&logo=bat&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Morass CSS](https://img.shields.io/badge/Morass%20CSS-080808?style=for-the-badge)
+![GoLang](https://img.shields.io/badge/GoLang-blue?style=for-the-badge&logo=go&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-purple?style=for-the-badge&logo=go&logoColor=white)
 ## Tools :
+![Morass CSS](https://img.shields.io/badge/Morass%20CSS-080808?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black)
