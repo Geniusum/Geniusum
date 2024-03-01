@@ -24,4 +24,4 @@
 ## MazeGroup :
 > MazeGroup is my organization I fonded with [Rayanis55](https://github.com/Rayanis55) to upload my projects under it name.
 
-[MazeGroup website](https://mazegroup.org/)
+[MazeGroup website](https://mazegroup.org/) 
