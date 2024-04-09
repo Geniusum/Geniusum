@@ -15,6 +15,7 @@
 ![GoLang](https://img.shields.io/badge/GoLang-blue?style=for-the-badge&logo=go&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)
+![Forth](https://img.shields.io/badge/Forth-darkred?style=for-the-badge&logo=forth&logoColor=white)
 ## Tools :
 ![Morass CSS](https://img.shields.io/badge/Morass%20CSS-080808?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
