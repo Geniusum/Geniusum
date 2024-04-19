@@ -23,6 +23,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?style=for-the-badge&logo=eclipse&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-darkorange?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ## MazeGroup :
 > MazeGroup is my organization I fonded with [Rayanis55](https://github.com/Rayanis55) to upload my projects under it name.
